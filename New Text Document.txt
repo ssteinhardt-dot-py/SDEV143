@@ -1,0 +1,5 @@
+1. Create Repository
+2. Add files
+3. Commit Changes
+4. Push to GitHub
+5. Review repository
